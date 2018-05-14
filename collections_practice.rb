@@ -48,3 +48,5 @@ array.collect do |word|
   end
 end
 end
+
+[1,2].each_with_index.collect{|element, index| }
