@@ -41,4 +41,4 @@ end
 
 def add_s(array)
   array[0], array[2], array[3]== array[0]+ "s", array[2]+ "s", array[3]+ "s"
-end 
+end
